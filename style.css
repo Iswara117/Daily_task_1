@@ -88,5 +88,18 @@ header{
     color:var(--orange);
   }
 
+  .Testimonial{
+    margin-bottom: 150px;
+    padding-left: 150px;
+    margin-left: 10px;
+    margin-right: 100px;
+
+  }
+
+  .item{
+    background-color: #fff;
+    width: 450px;
+    height: 200px;
+  }
   
   
